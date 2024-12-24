@@ -55,7 +55,3 @@ The repository is organized into multiple directories, each representing a diffe
     ```sh
     python script_name.py
     ```
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
